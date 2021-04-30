@@ -3,7 +3,7 @@
 ## 标题
 #### 英语github
 
-![天气之子](./tqzz.jpg)
+![天气之子](./tqzz.jfif)
 
 ![网络图片](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=55682519,264857422&fm=26&gp=0.jpg)
 
